@@ -1,0 +1,9 @@
+ERROR, LINE 1:	 Label "LOOP" was not declared.
+ERROR, LINE 2:	 Label "LENGTH" was not declared.
+ERROR, LINE 4:	 Left register must be odd and right register must be even "r5[r3]".
+ERROR, LINE 6:	 Unknown command "jump".
+ERROR, LINE 7:	 Invalid number.
+ERROR, LINE 12:	 Label "L3" was not declared.
+ERROR, LINE 14:	 Strings must be surrounded by quotation marks.
+ERROR, LINE 15:	 Illegal label "1LENGTH:".
+ERROR, LINE 15:	 Invalid number "1ng5".

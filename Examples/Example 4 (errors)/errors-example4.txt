@@ -1,0 +1,5 @@
+ERROR, LINE 3:	 Label "W" was not declared.
+ERROR, LINE 4:	 Invalid directive ".exteeern".
+ERROR, LINE 6:	 Label "W" was not declared.
+ERROR, LINE 8:	 Strings must be surrounded by quotation marks.
+ERROR, LINE 12:	 Number is out of range "4235435652".
